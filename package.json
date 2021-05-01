@@ -1,0 +1,24 @@
+{
+  "name": "y-spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.4",
+    "dateformat": "^4.5.1",
+    "express": "~4.16.0",
+    "querystring": "~0.2.0",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^5.0.2",
+    "yandex-music-api": "ssh://git@github.com:caaatpro/yandex-music-api.git"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
