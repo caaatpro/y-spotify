@@ -3,3 +3,5 @@ yarn.lock
 package-lock.json
 .s_session
 .y_session
+.spotify.json
+.y_auth
